@@ -75,18 +75,28 @@ plt.show()
 
 ## Output:
 DATA.HEAD()
+
 ![444745174-cecbb6b7-0d53-409e-bae4-b93304865bb8](https://github.com/user-attachments/assets/ff5f6247-7823-4093-8cad-bc0a93226219)
 
+
 DATA.INF0()
+
 ![444745220-3a258fd1-e9c2-4ef2-927e-5cf9cda73b93](https://github.com/user-attachments/assets/5838a127-a3e6-413c-b3e3-bd47f1b99ae1)
 
+
 DATA.ISNULL().SUM()
+
 ![444745277-04c5f927-0271-490b-a282-fff74859d28c](https://github.com/user-attachments/assets/8e5f61b9-58b5-48fb-9217-c261b78cb3af)
 
+
 PLOT USING ELBOW METHOD
+
 ![444745338-826e205f-a3b1-499c-b922-dabac7b91e7b](https://github.com/user-attachments/assets/173a6bac-75a9-4451-9c2e-530f241e737e)
 
+
 CUSTOMER SEGMENT
+
+![444745345-3d09e5bb-f87a-4d06-9388-33e77a218304](https://github.com/user-attachments/assets/22177a1e-31b5-4cd9-99c5-e1f04f9e8fad)
 
 
 ## Result:
